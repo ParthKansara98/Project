@@ -1,0 +1,17 @@
+L:\parth\206120316024\project\program\BAPS Accomodation\bin\Debug\net6.0-windows\BAPS Accomodation.exe
+L:\parth\206120316024\project\program\BAPS Accomodation\bin\Debug\net6.0-windows\BAPS Accomodation.deps.json
+L:\parth\206120316024\project\program\BAPS Accomodation\bin\Debug\net6.0-windows\BAPS Accomodation.runtimeconfig.json
+L:\parth\206120316024\project\program\BAPS Accomodation\bin\Debug\net6.0-windows\BAPS Accomodation.dll
+L:\parth\206120316024\project\program\BAPS Accomodation\bin\Debug\net6.0-windows\BAPS Accomodation.pdb
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.csproj.AssemblyReference.cache
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS_Accomodation.Form1.resources
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.csproj.GenerateResource.cache
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.GeneratedMSBuildEditorConfig.editorconfig
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.AssemblyInfoInputs.cache
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.AssemblyInfo.cs
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.csproj.CoreCompileInputs.cache
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.dll
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\refint\BAPS Accomodation.dll
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.pdb
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\BAPS Accomodation.genruntimeconfig.cache
+L:\parth\206120316024\project\program\BAPS Accomodation\obj\Debug\net6.0-windows\ref\BAPS Accomodation.dll

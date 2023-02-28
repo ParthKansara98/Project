@@ -1,0 +1,18 @@
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\bin\Debug\net6.0-windows\BAPS Utaramenejment.exe
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\bin\Debug\net6.0-windows\BAPS Utaramenejment.deps.json
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\bin\Debug\net6.0-windows\BAPS Utaramenejment.runtimeconfig.json
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\bin\Debug\net6.0-windows\BAPS Utaramenejment.dll
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\bin\Debug\net6.0-windows\BAPS Utaramenejment.pdb
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.csproj.AssemblyReference.cache
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.csproj.GenerateResource.cache
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.GeneratedMSBuildEditorConfig.editorconfig
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.AssemblyInfoInputs.cache
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.AssemblyInfo.cs
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.csproj.CoreCompileInputs.cache
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.dll
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\refint\BAPS Utaramenejment.dll
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.pdb
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS Utaramenejment.genruntimeconfig.cache
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\ref\BAPS Utaramenejment.dll
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS_Utaramenejment.Booking.resources
+L:\parth\206120316024\project\program\BAPS Utaramenejment\BAPS Utaramenejment\obj\Debug\net6.0-windows\BAPS_Utaramenejment.Form1.resources
