@@ -1,0 +1,18 @@
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\bin\Debug\net6.0-windows\BHAPS Uttaramanagement.exe
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\bin\Debug\net6.0-windows\BHAPS Uttaramanagement.deps.json
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\bin\Debug\net6.0-windows\BHAPS Uttaramanagement.runtimeconfig.json
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\bin\Debug\net6.0-windows\BHAPS Uttaramanagement.dll
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\bin\Debug\net6.0-windows\BHAPS Uttaramanagement.pdb
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.csproj.AssemblyReference.cache
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS_Uttaramanagement.Form1.resources
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS_Uttaramanagement.Form2.resources
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.csproj.GenerateResource.cache
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.GeneratedMSBuildEditorConfig.editorconfig
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.AssemblyInfoInputs.cache
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.AssemblyInfo.cs
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.csproj.CoreCompileInputs.cache
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.dll
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\refint\BHAPS Uttaramanagement.dll
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.pdb
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\BHAPS Uttaramanagement.genruntimeconfig.cache
+L:\parth\206120316024\project\program\BHAPS Uttaramanagement\BHAPS Uttaramanagement\obj\Debug\net6.0-windows\ref\BHAPS Uttaramanagement.dll
